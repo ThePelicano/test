@@ -1,0 +1,1 @@
+--locale=$INPUT_LOCALE
